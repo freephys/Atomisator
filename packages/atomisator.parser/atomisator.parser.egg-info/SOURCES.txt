@@ -1,0 +1,11 @@
+setup.py
+atomisator/__init__.py
+atomisator.parser.egg-info/PKG-INFO
+atomisator.parser.egg-info/SOURCES.txt
+atomisator.parser.egg-info/dependency_links.txt
+atomisator.parser.egg-info/entry_points.txt
+atomisator.parser.egg-info/namespace_packages.txt
+atomisator.parser.egg-info/not-zip-safe
+atomisator.parser.egg-info/requires.txt
+atomisator.parser.egg-info/top_level.txt
+atomisator/example/__init__.py
